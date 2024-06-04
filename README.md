@@ -43,8 +43,8 @@ technologies work together to make modern web pages.
 These are the three critical languages in front end development out of
 which, only one is a programming language.
 
-![](vertopal_c9968efda06146499286267d5e51cca0/media/image1.png){width="3.463542213473316in"
-height="2.8637576552930883in"}
+![image](https://github.com/gouthampai05/frontendroadmap/assets/171533091/5cbdeede-f15f-4119-b0f0-1cc024c5455c)
+
 
 HTML and CSS aren't essentially programming languages, they are more of
 markup or presentation languages used to specify to the user's browser
@@ -91,15 +91,14 @@ Think of building a house. HTML is like the plan that tells the builders
 about where to put each room and door. It sets up the basic structure
 for the walls and floors.
 
-![](vertopal_c9968efda06146499286267d5e51cca0/media/image2.png){width="3.4703094925634295in"
-height="2.6027318460192475in"}
+![image](https://github.com/gouthampai05/frontendroadmap/assets/171533091/ca2ca170-6295-477f-b22b-25bc4f496f64)
 
 Similarly using HTML, you can create the basic skeleton of your web
 page. You can specify heading, buttons, text fields etc based on what
 you want to have on your web page.
 
-![](vertopal_c9968efda06146499286267d5e51cca0/media/image3.png){width="6.381628390201225in"
-height="3.4739588801399823in"}
+![image](https://github.com/gouthampai05/frontendroadmap/assets/171533091/c93630c9-839e-4191-b29f-f862145e6682)
+
 
 The image above is the landing page of Netflix, highlighting what its
 skeleton looks like. As you can see it doesn\'t look like their actual
@@ -123,8 +122,8 @@ decorator chooses the paint colors and furniture arrangement for a room
 to make it look nice, CSS makes sure the webpage looks stylish and
 appealing to visitors.
 
-![](vertopal_c9968efda06146499286267d5e51cca0/media/image5.png){width="6.161458880139983in"
-height="2.891045494313211in"}
+![image](https://github.com/gouthampai05/frontendroadmap/assets/171533091/02781a2f-466b-4bd0-96e0-cfc64d69c1b5)
+
 
 The above image is the netflix sign in page after we apply styling to
 the skeleton of the webpage using CSS.
