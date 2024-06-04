@@ -8,8 +8,8 @@ essential skills from HTML and CSS basics to JavaScript and beyond.*
 Imagine you want to buy a toy from an online store. When you visit the
 store\'s website, everything you see and interact with is the front end.
 
-![](vertopal_c9968efda06146499286267d5e51cca0/media/image4.png){width="6.5in"
-height="2.625in"}
+![image](https://github.com/gouthampai05/frontendroadmap/assets/171533091/2382ed21-d1e0-44c1-9b3e-1317c4db25de)
+
 
 The buttons you click, the search bar you use to search products or the
 product categories you click on the home screen is developed by a front
