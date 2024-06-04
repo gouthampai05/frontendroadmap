@@ -1,9 +1,9 @@
-**Beginner\'s Frontend Development Roadmap**
+<h1>🚀 Beginner Frontend Development Roadmap 🚀</h1>
 
 *A step-by-step guide for aspiring frontend developers, covering
 essential skills from HTML and CSS basics to JavaScript and beyond.*
 
-**What is front end development?**
+**🤔 What is front end development?**
 
 Imagine you want to buy a toy from an online store. When you visit the
 store\'s website, everything you see and interact with is the front end.
@@ -16,9 +16,9 @@ product categories you click on the home screen is developed by a front
 end engineer so that it\'s easy for you to look for what you want and
 buy it.
 
-[Thus Front end engineering involves creating and developing user
+<ins>Thus Front end engineering involves creating and developing user
 interfaces (UI) to ensure that users find them natural and easy to use
-for accomplishing their tasks.]{.underline}
+for accomplishing their tasks.</ins>
 
 So your job as a Front End Developer is to implement good user
 interfaces in a way that the user finds easy and enjoyable to use and
@@ -32,13 +32,17 @@ have to repeatedly call you to ask how to perform a particular task
 using their website. So a good front end engineer makes sure their users
 don\'t face these issues.
 
-**Yeah I get what front end development is, but how do I technically
+<br>
+
+**🤔 Yeah I get what front end development is, but how do I technically
 implement it?**
 
 The first thing to know about front end development is how these three
 technologies work together to make modern web pages.
 
-**The three pillars of frontend web development**
+<br>
+
+**🏛️ The three pillars of frontend web development 🏛️**
 
 These are the three critical languages in front end development out of
 which, only one is a programming language.
@@ -64,10 +68,10 @@ sense as we explore each part/pillar step by step.
 
 To get a better overview of what front end is all about, refer to these
 resources:\
-Video: [[Frontend web development - a complete
-overview]{.underline}](https://www.youtube.com/watch?v=WG5ikvJ2TKA)\
-Article: [[Introduction to front end
-development]{.underline}](https://medium.com/@techyJaunt/introduction-to-front-end-development-b685802eef75#:~:text=The%20front%20end's%20focus%20is,ensure%20responsiveness%20on%20different%20devices.)
+[[Frontend web development - a complete
+overview]](https://www.youtube.com/watch?v=WG5ikvJ2TKA)\
+[[Introduction to front end
+development]](https://medium.com/@techyJaunt/introduction-to-front-end-development-b685802eef75#:~:text=The%20front%20end's%20focus%20is,ensure%20responsiveness%20on%20different%20devices.)
 
 So now we know that as a front-end developer, your main job is to make
 sure that when people use your website or app, it looks good and works
@@ -75,7 +79,7 @@ well. To do this, you use three main tools: HTML, CSS, and JavaScript.
 It\'s time to dive a bit deeper and understand how each of these
 technologies help you achieve your objective.
 
-**Level 1: Markup Languages**
+<h2>Level 1: Markup Languages</h2>
 
 To explain the working of HTML and CSS well, we can consider a classic
 example of building a house.
@@ -90,8 +94,7 @@ What does that mean?
 Think of building a house. HTML is like the plan that tells the builders
 about where to put each room and door. It sets up the basic structure
 for the walls and floors.
-
-![image](https://github.com/gouthampai05/frontendroadmap/assets/171533091/ca2ca170-6295-477f-b22b-25bc4f496f64)
+<br><img src="https://github.com/gouthampai05/frontendroadmap/assets/171533091/ca2ca170-6295-477f-b22b-25bc4f496f64" width="30%" alt="Image description">
 
 Similarly using HTML, you can create the basic skeleton of your web
 page. You can specify heading, buttons, text fields etc based on what
@@ -109,8 +112,7 @@ that specifies what elements are present on the web page. These elements
 can then be 'styled' using CSS to make the webpage look like how you
 want it to.
 
-**CSS:\
-**
+**CSS:**
 
 CSS, which stands for Cascading Style Sheets, is like the decorator of a
 webpage.
@@ -153,7 +155,7 @@ scalability, security, and Continuous Integration/Continuous Deployment
 (CI/CD).
 
 Course: [[CS50s introduction to web programming with python and
-javascript.]{.underline}](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
+javascript.]](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
 
 If you want to specifically learn the front end for now, you can just
 watch the videos that cover HTML, CSS and Javascript.
@@ -161,14 +163,11 @@ watch the videos that cover HTML, CSS and Javascript.
 Here are some links to other awesome resources if you prefer
 alternatives:
 
--   [[HTML and CSS Tutorial for
-    > beginners]{.underline}](https://www.youtube.com/playlist?list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt)
+-   [[HTML and CSS Tutorial for beginners]](https://www.youtube.com/playlist?list=PLZPZq0r_RZOOxqHgOzPyCzIl4AJjXbCYt)
 
--   [[Apna College: HTML tutorial for
-    > beginners]{.underline}](https://www.youtube.com/watch?v=HcOc7P5BMi4)
+-   [[Apna College: HTML tutorial for beginners]](https://www.youtube.com/watch?v=HcOc7P5BMi4)
 
--   [[Apna College: CSS tutorial for
-    > beginners]{.underline}](https://www.youtube.com/watch?v=ESnrn1kAD4E&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i&index=2)
+-   [[Apna College: CSS tutorial for beginners]](https://www.youtube.com/watch?v=ESnrn1kAD4E&list=PLfqMhTWNBTe0PY9xunOzsP5kmYIz2Hu7i&index=2)
 
 **Things to keep in mind: PROOO TIPPPP!**
 
@@ -186,21 +185,18 @@ technologies.\
 You can do any project you like, or you can select or take inspiration
 from one of these:
 
-[[Contact us page using HTML and
-CSS]{.underline}](https://www.youtube.com/watch?v=orBQesFBkXg&list=PLjwm_8O3suyOwElnplQ3quKEHsOuHyP9R&index=28)
+[[Contact us page using HTML and CSS]](https://www.youtube.com/watch?v=orBQesFBkXg&list=PLjwm_8O3suyOwElnplQ3quKEHsOuHyP9R&index=28)
 
-[[Netflix website clone using HTML and
-CSS]{.underline}](https://www.youtube.com/watch?v=Tgat3-prVv4)
+[[Netflix website clone using HTML and CSS]](https://www.youtube.com/watch?v=Tgat3-prVv4)
 
-[[How to make a website using HTML and
-CSS]{.underline}](https://www.youtube.com/watch?v=-2LtZRi6Q0s)
+[[How to make a website using HTML and CSS]](https://www.youtube.com/watch?v=-2LtZRi6Q0s)
 
 Do any one of these, or any one of your own guided tutorials which will
 give you a good understanding of how HTML and CSS is used to build a
 good UI. After a guided tutorial, it is time to challenge yourself by
 building a UI on your own.
 
-**Level 2: JavaScript**
+<h2>Level 2: JavaScript</h2>
 
 After a solid understanding of HTML and CSS, the next step is to learn
 JavaScript, which is a proper programming language. But what is
@@ -220,7 +216,10 @@ on your screen). This task is programmed using javascript. It is
 possible to make basic blog sites for example, using only HTML & CSS.
 But imagine instagram without all of its interactive features, it\'s
 essentially useless.
-
+So JavaScript is used to tell the user's web browser what to do when the user clicks
+a button for example, and then maybe display some message or a pop-up in reaction to that.
+When the user clicks in 'LogIn' button, the necessary tasks to be done by the UI is coded up in JavaScript as well.
+<br>
 Going back to the classic example of building a house: HTML is like the
 blueprint or framework of the house, CSS is like the paint and interior
 design, and JavaScript is like the switches, fans, and plumbing that add
@@ -243,14 +242,11 @@ clearer how they fit and function together.
 
 Here are some links to awesome resources:
 
--   [[Javascript tutorial for
-    > beginners]{.underline}](https://www.youtube.com/playlist?list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv)
+-   [[Javascript tutorial for beginners]](https://www.youtube.com/playlist?list=PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv)
 
--   [[Apna College: Javascript full
-    > course]{.underline}](https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW)
+-   [[Apna College: Javascript full course]](https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW)
 
--   [[Learn Javascript with this one
-    > project]{.underline}](https://www.youtube.com/watch?v=E3XxeE7NF30)
+-   [[Learn Javascript with this one project]](https://www.youtube.com/watch?v=E3XxeE7NF30)
 
 HTML, CSS and JS are the fundamental technologies required to build a
 good frontend UI. In the future, this roadmap will introduce you to
